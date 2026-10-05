@@ -5,7 +5,7 @@ const steps = [
   ['01', 'Set up once', 'Create a household profile and consent record, then set a one-time email filter for order confirmations.'],
   ['02', 'Capture quietly', 'Forwarded orders become structured purchase records. Receipt photos can cover purchases without an email trail.'],
   ['03', 'Remove & document', 'Direct identifiers are stripped. Each record retains a timestamped consent trail and defined use-scope.'],
-  ['04', 'Share in the upside', 'Each accepted contribution mints testnet $EQL to the contributor’s wallet, visible on-chain.'],
+  ['04', 'Get something back', 'Your data has value, and you share in it. Beta contributors will be compensated in cash or a reward of similar value.'],
 ];
 
 export default function HowItWorks() {

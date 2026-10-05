@@ -6,6 +6,6 @@ export default function Hero({ style }) {
     <h1>Consumer data with a <em>clear right to exist.</em></h1>
     <p>Real spending behavior for AI training and personalization—collected with explicit consent, stripped of direct identifiers, and documented record by record.</p>
     <div className="hero-actions"><a className="button button-primary" href="#how">Explore the system <Arrow /></a><a className="button button-secondary" href="#enterprise">For enterprise teams</a></div>
-    <div className="hero-meta"><span>Early prototype · Base testnet</span><span className="rule" /><span>$EQL has no monetary value</span></div>
+    <div className="hero-meta"><span>Early beta · Champaign-Urbana</span><span className="rule" /><span>Contributor rewards coming soon</span></div>
   </div></div></section>;
 }

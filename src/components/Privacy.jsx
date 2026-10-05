@@ -5,7 +5,7 @@ const principles = [
   ['Visibility by default', 'Contributors can understand what they’ve chosen to share and the use-scope attached to it.'],
   ['Direct identifiers removed', 'Purchase records are processed to strip identifying information before they move forward.'],
   ['Withdrawal is a real control', 'Consent is not permanent. Contributors can withdraw from future collection.'],
-  ['Testnet, not a financial product', '$EQL currently exists only on a test network and has no monetary value.'],
+  ['A fair trade, stated plainly', 'Sharing data is an exchange. We’ll always tell you what you share and what you get back before you opt in.'],
 ];
 
 export default function Privacy() {
